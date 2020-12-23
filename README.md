@@ -1,2 +1,2 @@
-# NotebookPython33
+# Note-Py
 Mybinder Bağlantısı
